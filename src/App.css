@@ -398,7 +398,16 @@ nav a.sidenav-trigger i, nav .navicon i {
 .collum2 {
     width: 39%;
 }
-
+.custom-modal {
+    width: 60%;  /* Ajuste a largura conforme necessário */
+    max-width: 600px;  /* Adicione um valor máximo se desejar */
+    margin: 0 auto;  /* Centralizar o modal na tela */
+    margin-top: 100px;  /* Centralizar o modal na tela */
+  }
+  
+  .custom-modal-content {
+    width: 100%;  /* Garanta que o conteúdo do modal ocupe toda a largura disponível */
+  }
 
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,500,600);
 @import url("/src/css/variables.css");

@@ -62,7 +62,7 @@
 /* end: Preloader */
 
 .LogoApp {
-    background-image: url('./images/logo192.png');
+    background-image: url('./images/logoLocation.png');
     background-size: 36px;
 }
 
@@ -78,7 +78,7 @@
 }
 
 .LogoApp-login {
-    background-image: url('./images/logo192.png');
+    background-image: url('./images/logoLocation.png');
     background-size: 48px;
     width: 48px;
     height: 48px;    
